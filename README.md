@@ -65,6 +65,11 @@ No **Zoo Kids**, as crianças podem conhecer animais incríveis, explorar curios
   
  4-  npx expo start
  
+## 📋 Requisitos
+Node.js instalado
+npm ou yarn
+Expo Go no celular (se for usar Expo)
+ 
 ## Autoria por André - 
 
 
