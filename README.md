@@ -68,6 +68,6 @@ No **Zoo Kids**, as crianças podem conhecer animais incríveis, explorar curios
 ## Autoria por André - 
 
 
->  **💛 Feito com carinho
+>  **💛 Feito com todo carinho e dedicação **
 
->**Projeto criado para levar alegria, aprendizado e amor às crianças. 🐾🌟
+>**Projeto criado para levar alegria, aprendizado e amor às crianças.** 🐾🌟
