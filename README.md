@@ -57,9 +57,13 @@ No **Zoo Kids**, as crianças podem conhecer animais incríveis, explorar curios
 
 ## 🚀 Como executar
 
-- no seu terminal -
-npm install
-npx expo start
+ 1-  git clone
+
+ 2 - cd zooKids 
+
+ 3 - npm install 
+  
+ 4-  npx expo start
 
 💛 Feito com carinho
 
