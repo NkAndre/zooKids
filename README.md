@@ -57,14 +57,17 @@ No **Zoo Kids**, as crianças podem conhecer animais incríveis, explorar curios
 
 ## 🚀 Como executar
 
- 1-  git clone
+ 1-  git clone  https://github.com/NkAndre/zooKids.git
 
  2 - cd zooKids 
 
  3 - npm install 
   
  4-  npx expo start
+ 
+## Autoria por André - 
 
-💛 Feito com carinho
 
-Projeto criado para levar alegria, aprendizado e amor às crianças. 🐾🌟
+>  **💛 Feito com carinho
+
+>**Projeto criado para levar alegria, aprendizado e amor às crianças. 🐾🌟
