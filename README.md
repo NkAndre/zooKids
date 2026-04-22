@@ -70,7 +70,7 @@ Node.js instalado
 npm ou yarn
 Expo Go no celular (se for usar Expo)
  
-## Autoria por André - 
+## Autoria por André 🧑🏽‍💻 - 
 
 
 >  **💛 Feito com todo carinho e dedicação**
